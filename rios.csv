@@ -1,3 +1,3 @@
-nombre,id,lat,lon,percentil 25,percentil 75
+nombre,id,lat,lon,percentil25,percentil75
 rio humacao,50081000,18.17207287,-65.8690463,8.5,18
 rio valenciano,50056400,18.21408426,-65.9257775,7.1,35
